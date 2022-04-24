@@ -1,5 +1,5 @@
 {
-  "name": "NK-BOT",
+  "name": "NK-S-BOT",
   "version": "5.5.0",
   "description": "Un bot simple para Whatsapp en español uwu",
   "main": "nkbot.js",
@@ -17,7 +17,7 @@
     "bot",
     "whatsapp"
   ],
-  "author": "Matt_Mdz",
+  "author": "Supremo_LMK",
   "license": "GNU",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",
